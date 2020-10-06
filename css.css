@@ -25,19 +25,19 @@ h1{
     font-family:"STKaiti";
 }
 .901 img{
-	width:70px;height: 35px
+	width:50px;height: 25px
 	margin:auto;
 }
 .964 1 img{
-	width:60px;height:30px
+	width:50px;height:25px
     margin:auto;
 }
 .964 2 img{
-	width:60px;height: 30px
+	width:50px;height: 25px
     margin:auto;
 }
 .991 img{
-	width: 70px;height: 35px
+	width: 50px;height: 25px
     margin:auto;
 }
 .box3{
@@ -60,9 +60,6 @@ h1{
 	background-color: #00a8f3;
 	color: #fcedb9;
     font-family:"STKaiti";
-}
-.box5 h2{
-	color: red;
 }
 p{
    margin-top:5px;
