@@ -4,15 +4,15 @@ body{
 	font-size: 16px;
 }
 h1{ 
-    background-color: #fcedb9;
-    color:#00a8f3; 
+    background-color:#00a8f3;
+    color:#fcedb9; 
     font-family:"STKaiti";
     margin:auto;
     font-size:bolder;	
 }
 .box1{
-	background-color:#f2dfa0;
-    color:aliceblue;
+	background-color:#00a8f3;
+    color:#fcedb9;
     width: 90%; 
     margin:auto;
     font-family:"STKaiti";
