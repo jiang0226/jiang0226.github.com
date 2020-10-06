@@ -1,14 +1,25 @@
+body{
+	background-color: #fcedb9;
+	color:#00a8f3;
+	font-family:"STKaiti";
+}
+
 h1{ 
+    background-color: #fcedb9;
     color:#00a8f3; 
+    font-family:"STKaiti";
 }
 .box1{
 	background-color:#f2dfa0;
     color:aliceblue;
-
+    width: 90%; 
+    margin:auto;
+    font-family:"STKaiti";
 }
 .box2{
 	width:80%;
 	margin:auto;
+	background-color: #00a8f3;
+	color: #fcedb9;
+    font-family:"STKaiti";
 }
-
-font-family:"IBM Plex Mono",monospace;
