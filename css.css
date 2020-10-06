@@ -1,7 +1,7 @@
 body{
 	background-color: #c9c9c9;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 16px;
 }
 h1{ 
     background-color: #fcedb9;
@@ -27,15 +27,15 @@ h1{
 	margin:auto;
 }
 .964 1 img{
-	width:100px;height:50px
+	width:60px;height:30px
     margin:auto;
 }
 .964 2 img{
-	width:100px;height: 50px
+	width:60px;height: 30px
     margin:auto;
 }
 .991 img{
-	width: 100px;height: 50px
+	width: 70px;height: 35px
     margin:auto;
 }
 .box3{
