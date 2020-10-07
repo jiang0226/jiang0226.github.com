@@ -63,10 +63,10 @@ div img{width:600px;height:300px}
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
-    border-left:2px #fcedb9 double;
-    border-right: 2px #fcedb9 double;
+    border-left:4px #fcedb9 double;
+    border-right: 4px #fcedb9 double;
 }
-h2{
+.box5 h2{
    font-size:30px;
    margin:auto;
 }
