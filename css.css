@@ -31,9 +31,9 @@ h1{
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
-    border-left:2px #fcedb9 double;
-    border-right: 2px #fcedb9 double;
-    border-radius:30px;
+    border-left:2px #fcedb9 dotted;
+    border-right: 2px #fcedb9 dotted;
+    border-radius:40px;
     margin:5px 10px;
 }
 div img{width:600px;height:300px}
@@ -45,9 +45,9 @@ div img{width:600px;height:300px}
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
-    border-left:2px #fcedb9 double;
-    border-right: 2px #fcedb9 double;
-    border-radius:30px;
+    border-left:2px #fcedb9 dotted;
+    border-right: 2px #fcedb9 dotted;
+    border-radius:40px;
     margin:5px 10px;
 	
 }
@@ -59,9 +59,9 @@ div img{width:600px;height:300px}
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
-    border-left:2px #fcedb9 double;
-    border-right: 2px #fcedb9 double;
-    border-radius:30px;
+    border-left:2px #fcedb9 dotted;
+    border-right: 2px #fcedb9 dotted;
+    border-radius:40px;
     margin:5px 10px;
 }
 .box5{
@@ -72,9 +72,9 @@ div img{width:600px;height:300px}
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
-    border-left:4px #fcedb9 double;
-    border-right: 4px #fcedb9 double;
-    border-radius:30px;
+    border-left:4px #fcedb9 dotted;
+    border-right: 4px #fcedb9 dotted;
+    border-radius:40px;
     margin:5px 10px;
 }
 
