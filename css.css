@@ -1,17 +1,17 @@
 body{
-	background-color: #00a8f3;
+	background-color: #d7e6fc;
 	font-weight: bold;
 	font-size: 16px;
 }
 h1{ 
-    background-color:#00a8f3;
+    background-color:#263754;
     color:#fcedb9; 
     font-family:"STKaiti";
     margin:auto;
     font-weight:bolder;	
 }
 .box1{
-	background-color:#00a8f3;
+	background-color:#263754;
     color:#fcedb9;
     width: 90%; 
     margin:auto;
@@ -24,7 +24,7 @@ h1{
 .box2{
 	width:80%;
 	margin:auto;
-	background-color: #00a8f3;
+	background-color: #263754;
 	color: #fcedb9;
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
@@ -36,7 +36,7 @@ div img{width:600px;height:300px}
 .box3{
 	width:80%;
 	margin:auto;
-	background-color: #00a8f3;
+	background-color: #263754;
 	color: #fcedb9;
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
@@ -47,7 +47,7 @@ div img{width:600px;height:300px}
 .box4{
 	width:90%;
 	margin:auto;
-	background-color: #00a8f3;
+	background-color: #263754;
 	color: #fcedb9;
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
@@ -58,7 +58,7 @@ div img{width:600px;height:300px}
 .box5{
 	width:80%;
 	margin:auto;
-	background-color: #00a8f3;
+	background-color: #263754;
 	color: #fcedb9;
     font-family:"STKaiti";
     border-top: 5px #fcedb9 dotted;
