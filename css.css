@@ -1,5 +1,5 @@
 body{
-	background-color: #c9c9c9;
+	background-color: #00a8f3;
 	font-weight: bold;
 	font-size: 16px;
 }
@@ -8,7 +8,7 @@ h1{
     color:#fcedb9; 
     font-family:"STKaiti";
     margin:auto;
-    font-size:bolder;	
+    font-weight:bolder;	
 }
 .box1{
 	background-color:#00a8f3;
@@ -67,6 +67,6 @@ div img{width:600px;height:300px}
     border-right: 2px #fcedb9 double;
 }
 h2{
-   font-size:22px;
+   font-size:30px;
    margin:auto;
 }
