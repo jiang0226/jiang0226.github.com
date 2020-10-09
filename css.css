@@ -21,7 +21,7 @@ h1{
     border-left:5px #fcedb9 double;
     border-right: 5px #fcedb9 double;
     border-radius:10px;
-    margin:5px 30px;
+    margin:auto	;
 }
 .box2{
 	width:90%;
@@ -33,7 +33,7 @@ h1{
     border-left:5px #fcedb9 dotted;
     border-right: 5px #fcedb9 dotted;
     border-radius:10px;
-    margin:5px 30px;
+    margin:auto;
 }
 div img{width:600px;height:300px}
 .box3{
@@ -46,7 +46,7 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right：5px #fcedb9 dotted;
     border-radius:10px;
-    margin:5px 30px;
+    margin:auto;
 }
 .box4{
 	width:90%;
@@ -58,7 +58,7 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right:5px #fcedb9 dotted;
     border-radius:10px;
-    margin:5px 30px;
+    margin:auto;
 }
 .box5{
 	width:90%;
@@ -70,6 +70,6 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right:5px #fcedb9 dotted;
     border-radius:10px;
-    margin:5px 30px;
+    margin:auto;
 }
 
