@@ -15,13 +15,12 @@ h1{
     color:#fcedb9;
     width: 90%; 
     font-family:"STKaiti";
-    border-radius:25px;
     border-top: 5px #fcedb9 dotted;
     border-bottom:5px #fcedb9 dotted;
     border-left:5px #fcedb9 double;
     border-right: 5px #fcedb9 double;
     border-radius:10px;
-    margin:auto	;
+    margin:30px 10px;
 }
 .box2{
 	width:90%;
@@ -33,7 +32,7 @@ h1{
     border-left:5px #fcedb9 dotted;
     border-right: 5px #fcedb9 dotted;
     border-radius:10px;
-    margin:auto;
+    margin:30px 10px;
 }
 div img{width:600px;height:300px}
 .box3{
@@ -46,7 +45,7 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right：5px #fcedb9 dotted;
     border-radius:10px;
-    margin:auto;
+    margin:30px 10px;
 }
 .box4{
 	width:90%;
@@ -58,7 +57,7 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right:5px #fcedb9 dotted;
     border-radius:10px;
-    margin:auto;
+    margin:30px 10px;
 }
 .box5{
 	width:90%;
@@ -70,6 +69,6 @@ div img{width:600px;height:300px}
     border-left:5px #fcedb9 dotted;
     border-right:5px #fcedb9 dotted;
     border-radius:10px;
-    margin:auto;
+    margin:30px 10px;
 }
 
